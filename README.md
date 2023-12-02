@@ -9,7 +9,7 @@ Design a system that scores essays based on factors like grammar, coherence, and
 Use Natural Language Processing techniques and get assistance with libraries like NLTK or spaCy.
 
 ## Használat
-A kódot a Google Colab segítségével készült és abban is lehet futtattatni. A fájlban megtalálható "Open in Colab" gomb az oldalra vezet. A következő instrukciók már az oldalon követendők.
+A program a Google Colab segítségével készült és abban is lehet futtattatni. A fájlban megtalálható "Open in Colab" gomb az oldalra vezet. A következő instrukciók már az oldalon követendők.
 
 1.) Először futtatni kell a szükséges letöltéseket
  
