@@ -23,7 +23,8 @@ nltk.download('wordnet')
 ```
 2.) Esszét megadni string formátumú essay változónak, a """ között """. 
 Példákat a következő oldalon lehet találni: https://engxam.com/handbook/essays-sample-answers-comments-b2-first-fce/
-Például:
+
+Példa az esszé megadására:
 
 ```python
 essay = """
