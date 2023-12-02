@@ -21,7 +21,9 @@ nltk.download('averaged_perceptron_tagger')
 nltk.download('wordnet')
 !pip install language-tool-python
 ```
-2.) Esszét megadni string formátumú essay változónak, a """ között """. Például:
+2.) Esszét megadni string formátumú essay változónak, a """ között """. 
+Példákat a következő oldalon lehet találni: https://engxam.com/handbook/essays-sample-answers-comments-b2-first-fce/
+Például:
 
 ```python
 essay = """
@@ -34,7 +36,7 @@ In addition to this our rivers and seas are in not less danger situation. It’s
 Apart from this I’m inclined to believe that every person can and must contribute to solving this important problem. Doing a little steps for protection our environment every day we will be able to save our Earth. And it’s a task of each of us.
 """
 ```
-3.) Futtatni a fő program kódját. Az eredmény a kód alatti kimenetben jelenik meg. Példákat a következő oldalon lehet találni: https://engxam.com/handbook/essays-sample-answers-comments-b2-first-fce/
+3.) Futtatni a fő program kódját. Az eredmény a kód alatti kimenetben jelenik meg.
 
 ```python
 Checking Vocabulary...
