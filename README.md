@@ -1,6 +1,6 @@
 # EssayGrading
 
-Alkalmazott AI tantárgy féléves házifeladata.
+Alkalmazott AI tantárgy féléves házifeladata. A feladat célja a ChatGPT kód-generálásának kihasználása volt, így a kód szinte teljes része generált promptokkal, kisebb javításokkal, rendezéssel, megjelenítéssel. A promptok és egyéb észrevételek megtalálhatóak a dokumentációkban.
 
 ## Feladat leírás
 
